@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![github_stats](https://github-readme-stats.vercel.app/api?username=hwi-git&show_icons=true&hide_border=true)]
-(https://github.com/hwi-git)
-[![Top_Langs](https://github-readme-stats.verce].app/api/top-langs/?username=hwi-git&layout=compact)](https://github.com/hwi-git)
+[![github_stats](https://github-readme-stats.vercel.app/api?username=hwi-git&show_icons=true&hide_border=true)](https://github.com/hwi-git)
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi-git&layout=compact)](https://github.com/hwi-git)
+
