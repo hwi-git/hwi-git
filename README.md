@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 늦깍이 코린이입니다. 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwi-git)](https://hits.seeyoufarm.com)
 <!--
 **hwi-git/hwi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![github_stats](https://github-readme-stats.vercel.app/api?username=hwi-git&show_icons=true&hide_border=true)]
+(https://github.com/hwi-git)
+[![Top_Langs](https://github-readme-stats.verce].app/api/top-langs/?username=hwi-git&layout=compact)](https://github.com/hwi-git)
