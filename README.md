@@ -1,4 +1,4 @@
-### 안녕하세요 늦깍이 코린이입니다. 👋
+### 안녕하세요 코딩 모험가입니다. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwi-git)](https://hits.seeyoufarm.com)
 <!--
 **hwi-git/hwi-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
